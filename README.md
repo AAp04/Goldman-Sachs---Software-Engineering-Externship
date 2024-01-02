@@ -1,4 +1,4 @@
-# Goldman Sachs Software Engineering Externship
+# Goldman Sachs - Software Engineering Externship
 
 As part of my responsibilities as a governance analyst, I have conducted a thorough assessment of our organization's password security measures. Below are my findings based on the password dump provided and the associated cracking techniques:
 
